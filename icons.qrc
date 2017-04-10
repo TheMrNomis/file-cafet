@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/coffee">
+        <file alias="blue">coffee/blue.png</file>
+        <file alias="green">coffee/green.png</file>
+        <file alias="red">coffee/red.png</file>
+        <file alias="white">coffee/white.png</file>
+        <file alias="yellow">coffee/yellow.png</file>
+    </qresource>
+</RCC>
